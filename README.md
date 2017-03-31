@@ -1,5 +1,5 @@
 # Touching Data: Evaluating the Usability and Effectiveness of a Tablet-based Visualization System
----
+
 ## Repository Content
 
 ## Study 1: Evaluating Discoverability and Usability of Tangere & Vizable
